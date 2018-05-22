@@ -1,0 +1,10 @@
+Aaaaaaaaaa1	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:12	01:02:5	0
+Aaaaaaaaaa2	F	Bbbbbbbbbb	1234 Main St.		Dallas 	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:11	01:02:55	2
+Aaaaaaaaaa3	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:2	01:02:37	0
+Aaaaaaaaaa4	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:45	01:02:16	1
+Aaaaaaaaaa5	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:24	01:02:57	3
+Aaaaaaaaaa6	F	Bbbbbbbbbb	1234 Main St.		Dallas 	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:3	01:02:38	5
+Aaaaaaaaaa7	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:46	01:02:18	1
+Aaaaaaaaaa8	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:26	01:02:0	6
+Aaaaaaaaaa9	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:8	01:02:41	2
+Aaaaaaaaaa10	F	Bbbbbbbbbb	1234 Main St.		Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	Tuesday, February 13, 2018	01:02:46	01:02:15	1
